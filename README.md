@@ -10,7 +10,7 @@ Os exercícios de algoritmos foram originalmente elaborados para serem respondid
 
 ### Conteúdo
 
-Até a presente data (04/07/2024), o repositório contém as seguintes pastas:
+Até a presente data (10/07/2024), o repositório contém as seguintes pastas:
 
 - **Python:** Esta pasta contém oito subpastas com os 100 exercícios da lista de algoritmos resolvidos em Linguagem C.
   - **Passo 01 - Sequências Básicas:** Contém 16 subpastas com os exercícios 1 a 16.
@@ -31,6 +31,15 @@ Até a presente data (04/07/2024), o repositório contém as seguintes pastas:
     - **Exe015:** Contém a questão nº 15 resolvida.
     - **Exe016:** Contém a questão nº 16 resolvida.
   - **Passo 02 - Condições Básicas:** Conterá 8 subpastas com os exercícios 17 a 25.
+    - **Exe017:** Contém a questão nº 1 resolvida.
+    - **Exe018:** Contém a questão nº 2 resolvida.
+    - **Exe019:** Contém a questão nº 3 resolvida.
+    - **Exe020:** Contém a questão nº 4 resolvida.
+    - **Exe021:** Contém a questão nº 5 resolvida.
+    - **Exe022:** Conterá a questão nº 6 resolvida.
+    - **Exe023:** Conterá a questão nº 7 resolvida.
+    - **Exe024:** Conterá a questão nº 8 resolvida.
+    - **Exe025:** Conterá a questão nº 9 resolvida.   
   - **Passo 03 - Condições Compostas:** Conterá 11 subpastas com os exercícios 26 a 37.
   - **Passo 04 – Repetições Enquanto:** Conterá 17 subpastas com os exercícios 38 a 55.
   - **Passo 05 – Enquanto Com Flag:** Conterá 5 subpastas com os exercícios 56 a 60.
